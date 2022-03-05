@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/front-study-deploy/static/js/main.295095fd.js",
+    "static/js/787.ce206c08.chunk.js": "/front-study-deploy/static/js/787.ce206c08.chunk.js",
+    "index.html": "/front-study-deploy/index.html",
+    "main.295095fd.js.map": "/front-study-deploy/static/js/main.295095fd.js.map",
+    "787.ce206c08.chunk.js.map": "/front-study-deploy/static/js/787.ce206c08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.295095fd.js"
+  ]
+}
